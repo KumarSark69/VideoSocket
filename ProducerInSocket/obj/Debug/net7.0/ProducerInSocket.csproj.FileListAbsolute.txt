@@ -1,0 +1,15 @@
+/Users/anilkumar/VideoSocket/ProducerInSocket/bin/Debug/net7.0/ProducerInSocket
+/Users/anilkumar/VideoSocket/ProducerInSocket/bin/Debug/net7.0/ProducerInSocket.deps.json
+/Users/anilkumar/VideoSocket/ProducerInSocket/bin/Debug/net7.0/ProducerInSocket.runtimeconfig.json
+/Users/anilkumar/VideoSocket/ProducerInSocket/bin/Debug/net7.0/ProducerInSocket.dll
+/Users/anilkumar/VideoSocket/ProducerInSocket/bin/Debug/net7.0/ProducerInSocket.pdb
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ProducerInSocket.csproj.AssemblyReference.cache
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ProducerInSocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ProducerInSocket.AssemblyInfoInputs.cache
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ProducerInSocket.AssemblyInfo.cs
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ProducerInSocket.csproj.CoreCompileInputs.cache
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ProducerInSocket.dll
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/refint/ProducerInSocket.dll
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ProducerInSocket.pdb
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ProducerInSocket.genruntimeconfig.cache
+/Users/anilkumar/VideoSocket/ProducerInSocket/obj/Debug/net7.0/ref/ProducerInSocket.dll

@@ -1,0 +1,15 @@
+/Users/anilkumar/VideoSocket/ConsumerInSocket/bin/Debug/net7.0/ConsumerInSocket
+/Users/anilkumar/VideoSocket/ConsumerInSocket/bin/Debug/net7.0/ConsumerInSocket.deps.json
+/Users/anilkumar/VideoSocket/ConsumerInSocket/bin/Debug/net7.0/ConsumerInSocket.runtimeconfig.json
+/Users/anilkumar/VideoSocket/ConsumerInSocket/bin/Debug/net7.0/ConsumerInSocket.dll
+/Users/anilkumar/VideoSocket/ConsumerInSocket/bin/Debug/net7.0/ConsumerInSocket.pdb
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ConsumerInSocket.csproj.AssemblyReference.cache
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ConsumerInSocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ConsumerInSocket.AssemblyInfoInputs.cache
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ConsumerInSocket.AssemblyInfo.cs
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ConsumerInSocket.csproj.CoreCompileInputs.cache
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ConsumerInSocket.dll
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/refint/ConsumerInSocket.dll
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ConsumerInSocket.pdb
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ConsumerInSocket.genruntimeconfig.cache
+/Users/anilkumar/VideoSocket/ConsumerInSocket/obj/Debug/net7.0/ref/ConsumerInSocket.dll

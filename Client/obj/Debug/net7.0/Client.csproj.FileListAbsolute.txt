@@ -1,0 +1,15 @@
+/Users/anilkumar/VideoSocket/Client/bin/Debug/net7.0/Client
+/Users/anilkumar/VideoSocket/Client/bin/Debug/net7.0/Client.deps.json
+/Users/anilkumar/VideoSocket/Client/bin/Debug/net7.0/Client.runtimeconfig.json
+/Users/anilkumar/VideoSocket/Client/bin/Debug/net7.0/Client.dll
+/Users/anilkumar/VideoSocket/Client/bin/Debug/net7.0/Client.pdb
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/Client.csproj.AssemblyReference.cache
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/Client.AssemblyInfoInputs.cache
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/Client.AssemblyInfo.cs
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/Client.csproj.CoreCompileInputs.cache
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/Client.dll
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/refint/Client.dll
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/Client.pdb
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/Client.genruntimeconfig.cache
+/Users/anilkumar/VideoSocket/Client/obj/Debug/net7.0/ref/Client.dll
